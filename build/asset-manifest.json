@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/saivishithaarisetti.github.io/my_react_app/static/css/main.394c28b2.css",
+    "main.css": "/saivishithaarisetti.github.io/my_react_app/static/css/main.fed3cdae.css",
     "main.js": "/saivishithaarisetti.github.io/my_react_app/static/js/main.1de88bc8.js",
     "index.html": "/saivishithaarisetti.github.io/my_react_app/index.html",
-    "main.394c28b2.css.map": "/saivishithaarisetti.github.io/my_react_app/static/css/main.394c28b2.css.map",
+    "main.fed3cdae.css.map": "/saivishithaarisetti.github.io/my_react_app/static/css/main.fed3cdae.css.map",
     "main.1de88bc8.js.map": "/saivishithaarisetti.github.io/my_react_app/static/js/main.1de88bc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.394c28b2.css",
+    "static/css/main.fed3cdae.css",
     "static/js/main.1de88bc8.js"
   ]
 }
